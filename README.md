@@ -10,7 +10,7 @@ I’m currently a **3rd year student** at [Gunadarma University](https://www.gun
   - naufal360.an@gmail.com
   - <a href="https://twitter.com/Naufalfdl_pay">Twitter</a>
 - 😄 Pronouns: nowfall or ophay
-- ⚡ Fun fact: Alone but not lonely
+- ⚡ Fun fact: I'd Like to Learn Something New.
 
 ### Github Statistic
 <p align="left">
