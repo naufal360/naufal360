@@ -2,12 +2,14 @@
 
 I'm **Ahmad Naufal Fadhil**, and you can call me naufal or opay.\
 
-- 🔭 I’m currently a **3rd year student** at [Gunadarma University](https://www.gunadarma.ac.id/) as Informatics Engineer.\
+I’m currently a **3rd year student** at [Gunadarma University](https://www.gunadarma.ac.id/) as Informatics Engineer.\
+
 - 🌱 I’m currently learning Back-end Programming
 - 📫 How to reach me: naufal360.an@gmail.com
 - 😄 Pronouns: nowfall or ophay
-- ⚡ Fun fact: Father of a daughter
+- ⚡ Fun fact: Alone but not lonely
 
+### Github Statistic
 <p align="left">
 <a href="https://github.com/naufal360">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufal360&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
