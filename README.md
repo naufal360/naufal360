@@ -21,4 +21,3 @@ I’m currently a **3rd year student** at [Gunadarma University](https://www.gun
 - naufal360.an@gmail.com
 - <a href="https://www.linkedin.com/in/naufal360/">LinkedIn</a>
 - <a href="https://twitter.com/Naufalfdl_pay">Twitter</a>
-- <a href="https://www.instagram.com/naufalfdl_pay/">Instagram</a>
