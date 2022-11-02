@@ -2,7 +2,7 @@
 
 I'm **Ahmad Naufal Fadhil**, and you can call me naufal or opay.
 
-I’m currently a **3rd year student** at [Gunadarma University](https://www.gunadarma.ac.id/) as Informatics Engineer.
+I’m currently a **Final year student** at [Gunadarma University](https://www.gunadarma.ac.id/) as Informatics Engineer.
 
 - 🌱 I’m currently learning Back-end Programming
 - 📫 How to reach me:
