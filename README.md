@@ -12,6 +12,7 @@ I’m currently a **Final year student** at [Gunadarma University](https://www.g
 - 😄 Pronouns: nowfall or ophay
 - ⚡ Fun fact: I'd Like to Learn Something New.
 
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/naufal360">
