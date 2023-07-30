@@ -8,7 +8,6 @@ I’m currently a **Final year student** at [Gunadarma University](https://www.g
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/naufal360/">LinkedIn</a>
   - naufal360.an@gmail.com
-  - <a href="https://twitter.com/Naufalfdl_pay">Twitter</a>
 - 😄 Pronouns: nowfall or ophay
 - ⚡ Fun fact: I'd Like to Learn Something New.
 
